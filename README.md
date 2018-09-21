@@ -1,5 +1,5 @@
 # duplicity-restore-external
-lifesaver for external duplicity restore
+lifesaver for restoring external duplicity backups
 
 
 ## AWS
